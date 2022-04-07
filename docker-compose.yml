@@ -1,0 +1,5 @@
+api:
+    image: user/api-docker
+    ports:
+        - "88:8080"
+        # EXTERNAL/INTERNAL PORT
